@@ -1,4 +1,4 @@
-# PowerBI_Ecommerce_Sales_Dashboard
+# PowerBI_E-Commerce_Sales_Dashboard
 
 ## 📊 Project Learnings (Power BI Focused)
 
@@ -10,3 +10,7 @@
 * Designed visually appealing reports using various Power BI visualizations such as bar charts, line charts, pie charts, maps, and KPI cards.
 * Enabled interactive reporting with user-friendly navigation and customized views.
 * Optimized report performance using efficient data modeling and DAX techniques.
+
+## Screenshot
+
+![ecommerce_sales_dashboard](https://github.com/SmitBhavsar008/PowerBI_Ecommerce_Sales_Dashboard/blob/main/ecommerce_sales_dashboard.png)
